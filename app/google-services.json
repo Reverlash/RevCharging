@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "914170190551",
+    "firebase_url": "https://revcharge.firebaseio.com",
+    "project_id": "revcharge",
+    "storage_bucket": "revcharge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914170190551:android:b0320fc5ee1f65c0",
+        "android_client_info": {
+          "package_name": "com.example.sagar.revcharge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914170190551-q8m9980oi66j5sb6uim2qofioas0vr18.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sagar.revcharge",
+            "certificate_hash": "d4d7b3bad24d6b90e12b4c24dda0634a8d16f927"
+          }
+        },
+        {
+          "client_id": "914170190551-olbqhvn127mtll129k3n337ejfg1okeg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATx--LrWX5uhX4kUDWljCTugMzUlRTWwI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914170190551-olbqhvn127mtll129k3n337ejfg1okeg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
